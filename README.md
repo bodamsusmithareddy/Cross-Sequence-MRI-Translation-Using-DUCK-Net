@@ -1,6 +1,6 @@
 # Cross-Sequence MRI Translation Using Optimized DUCK-Net for BraTS2020 dataset
 
-Authors: [Navya Kesani](mailto:navyakesani2@gmail.com?subject=[GitHub]DUCK-Net), [Susmitha Reddy Bodam](mailto:susmitha.reddy64@gmail.com?subject=[GitHub]DUCK-Net), [Jahnavi Bellapukonda](mailto:jahnavibellapukonda60@gmail.com?subject=[GitHub]DUCK-Net), [Jalli Sadharma Kireeti Dev Sai](mailto:jahnavibellapukonda60@gmail.com?subject=[GitHub]DUCK-Net) & [Revanth Chowdary CH](mailto:jahnavibellapukonda60@gmail.com?subject=[GitHub]DUCK-Net)
+Authors: [Navya Kesani], [Susmitha Reddy Bodam], [Jahnavi Bellapukonda], [Jalli Sadharma Kireeti Dev Sai] & [Revanth Chowdary CH]
 
 
 ## Project Overview
