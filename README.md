@@ -148,3 +148,5 @@ You can modify the following parameters in `ducknet_optimized.py`:
 4. **Real-Time Deployment:** Developing lightweight versions for real-time clinical use on edge devices.
 
 ---
+© 2025 Susmitha Reddy Bodam  
+Author: [Susmitha Reddy Bodam](https://github.com/bodamsusmithareddy)
